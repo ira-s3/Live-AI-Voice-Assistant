@@ -1,4 +1,4 @@
-const API_KEY = "AIzaSyAF4cWC08ou0Emx850MXJMtotKzXom3VFI";
+const API_KEY = "YOUR_API_KEY_HERE";
 
 async function askAI(textInput = null) {
 
